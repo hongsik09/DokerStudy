@@ -3,7 +3,7 @@
   "containerDefinitions": [
     {
       "name": "api",
-      "image": "382707088245.dkr.ecr.ap-northeast-2.amazonaws.com/test-api",
+      "image": "123698967521.dkr.ecr.us-east-2.amazonaws.com/docker_study",
       "hostname": "api",
       "essential": true,
       "memory": 128,
